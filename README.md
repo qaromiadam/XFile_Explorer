@@ -56,7 +56,7 @@ grant permission «permission_name»
 
 ​🛠️ Environment: File Manager, App Manager, Settings, and Built-in terminal with 182 integrated utilities
 
-​💾 App Size: 29 MB
+​💾 App Size: 27 MB
 
 ​🔒 Privacy: 100% local storage & offline operation
 
