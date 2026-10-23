@@ -1,7 +1,6 @@
 # XFile-Explorer
 
-​🚀 XFile Explorer
- ​is a feature-packed, super-customizable file manager app and power tool built for Android! It combines clean, fast file browsing, a full media suite, app management, and a built-in terminal loaded with 182 commands to give you total control over your device.
+​🚀 XFile Explorer is a feature-packed, super-customizable file manager app and power tool built for Android! It combines clean, fast file browsing, a full media suite, app management, and a built-in terminal loaded with 182 commands to give you total control over your device.
 
 ​No ads 🚫
 no subscriptions 💳, 
